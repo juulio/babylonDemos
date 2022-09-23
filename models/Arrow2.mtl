@@ -12,7 +12,7 @@ newmtl Arrow2
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka N:\M n B\_MESH\A mesh\Arrow 2\Arrow2Albedo.png
-	map_Kd N:\M n B\_MESH\A mesh\Arrow 2\Arrow2Albedo.png
-	map_Ks N:\M n B\_MESH\A mesh\Arrow 2\Arrow2Rough.png
+	map_Ka N:\M n Arrow2Albedo.png
+	map_Kd N:\M n Arrow2Albedo.png
+	map_Ks N:\M n Arrow2Rough.png
 	map_bump -bm 0.3000 Map__19_Normal_Bump.png
